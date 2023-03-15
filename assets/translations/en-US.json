@@ -1,0 +1,23 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "mainScreen": "Main Screen",
+  "nearby": "Nearby",
+  "location": "Location",
+  "hamyon": "Wallet",
+  "balans": "Balance",
+  "openShop": "Create a shop",
+  "cart": "Cart",
+  "sozlamalar": "Settings",
+  "newShopCreate": "Creating a new shop",
+  "enterShopName": "Enter the shop name",
+  "enterPass": "Enter the password",
+  "shopName": "The Shop's name",
+  "chegirma": "Discount",
+  "notAvailable": "The user has not opened a store yet!",
+  "uploadData": "Loading data",
+  "haveShop": "Have you opened a store before?",
+  "enterPassAndName": "Enter your store name and password",
+  "forgotPass": "Forgot your password?",
+  "enterShop": "Entering the store"
+}

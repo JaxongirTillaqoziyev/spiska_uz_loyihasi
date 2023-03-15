@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342143260535",
+    "project_id": "spiskauzz",
+    "storage_bucket": "spiskauzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342143260535:android:635d9c516660b85bcdb372",
+        "android_client_info": {
+          "package_name": "com.spiska.spiska_uz_loyihasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342143260535-sjbjgofq6c8460bvktk0pf1k1mbkd2n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spiska.spiska_uz_loyihasi",
+            "certificate_hash": "887d9631d643875aaf19cc46c60b3a39d2366f03"
+          }
+        },
+        {
+          "client_id": "342143260535-n0nree0ontck0rb7i3os1k5j73ftcrtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0TO3npZ-LAqO42BpGWWmLlsKz26j050"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342143260535-n0nree0ontck0rb7i3os1k5j73ftcrtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

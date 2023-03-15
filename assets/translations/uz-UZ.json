@@ -1,0 +1,23 @@
+{
+"yes": "Да",
+  "no": "Нет",
+  "mainScreen": "Bosh Sahifa",
+  "nearby": "Yaqin-Atrof",
+  "location": "Joylashuv",
+  "hamyon": "Hamyon",
+  "balans": "Balans",
+  "openShop": "Do'kon ochish",
+  "cart": "Korzinka",
+  "sozlamalar": "Sozlamalar",
+  "newShopCreate": "Yangi do'kon yaratish",
+  "enterShopName": "Biznes nomini kiriting",
+  "enterPass": "Parolni kiriting",
+  "shopName": "Do'kon",
+  "chegirma": "Chegirma",
+  "notAvailable": "Foydalanuvchi tomonidan do'kon ochilmagan",
+  "uploadData": "Ma'lumotlar yuklanmoqda",
+  "haveShop": "Oldin do'kon ochganmisiz?",
+  "enterPassAndName": "Do'kon nomi va parolini kiriting",
+  "forgotPass": "Parolni unutdizmi? Admin sizni kutmoqda",
+  "enterShop": "Biznes kirish"
+}
